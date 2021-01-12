@@ -1,3 +1,3 @@
-# RedlordSite
+# Test site
 
-Run Site at : https://the-redlord.github.io/bootstraptest/
+Run Site at : https://chinmay-sh.github.io/bootstraptest/
